@@ -1,6 +1,6 @@
 # Unsupervised Learning Class - Aula de Aprendizado Não Supervisionado
 
-This repository is a collection of tutorials for Unsupervised Learning class material. More added as classes progress.
+This repository is a collection of tutorials for Unsupervised Learning class material. More added as classes progress. The material is currently in Portuguese.
 
 ## Topics
 * Introduction to Unsupervised Learning (Introdução ao Aprendizado Não Supervisionado)
